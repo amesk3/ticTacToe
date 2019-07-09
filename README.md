@@ -5,6 +5,9 @@ A simple tic-tac-toe game for two players in vanilla javascript to play in the c
 ## Installation
 
 `npm install`
+
+then,
+
 `npm test`
 
 ## Contributor
