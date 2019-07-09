@@ -1,4 +1,4 @@
-# Tic-Tac-toe
+# Tic-Tac-Toe
 
 A simple tic-tac-toe game for two players in vanilla javascript to play in the command line.
 
