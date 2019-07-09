@@ -1,12 +1,12 @@
-#Tic-Tac-toe
+# Tic-Tac-toe
 
 A simple tic-tac-toe game for two players in vanilla javascript to play in the command line.
 
-##Installation
+## Installation
 
-```npm install
-```npm test
+`npm install`
+`npm test`
 
-##Contributor
+## Contributor
 
--Amy Kim
+Amy Kim
